@@ -1,0 +1,460 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #6bbcff;
+}
+
+img{
+    width: 1350px;;
+    height: 160px;
+    background-size: cover;
+    padding: 0;
+}
+
+div.img{
+    position: sticky;
+    top: 0px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    background-color: #1395ff;
+    overflow: hidden;
+    margin: auto;
+    font-family: 'Braah One';
+    font-size: 20px;
+    position: sticky;
+    top: 160px;
+    margin-top: -5px;
+}
+
+ul.ul :hover{
+    color: #015599;
+    background-color: white;
+    transform: scale(1.1); 
+}
+
+li{
+    float: left;
+    text-align: center;
+    margin: 0 90px;
+}
+
+li a{
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 20px;
+}
+
+h1{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+    border-style: dashed;
+    border-radius: 5%;
+}
+
+h2{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: justify;
+    line-height: 25px;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+p.a{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+p.b{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+p.c{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+p.d{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+p.e{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+p.f{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+p.g{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+p.h{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+p.i{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+p.j{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: -10px;
+    text-align: left;
+    font-weight: lighter;
+    font-size: 18px;
+    background-color: white;
+    color: #015599;
+    padding: 5px 10px 5px 10px;
+}
+
+p.tujuan{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    font-size: 20px;
+    background-color: #1395ff;
+    padding-bottom: 70px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+ol.tujuan{
+    list-style-type: lower-alpha;
+    font-family: 'Braah One';
+    margin-right: 300px;
+    font-size: 20px;
+    margin-left: 30px;
+    text-align: left;
+    margin-top: -87px;
+}
+
+p.upaya{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    font-size: 20px;
+    margin-top: 120px;
+    background-color: #1395ff;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 180px;
+}
+
+ol.upaya{
+    font-family: 'Braah One';
+    margin-right: 300px;
+    font-size: 20px;
+    margin-left: 30px;
+    text-align: left;
+    margin-top: -180px;
+    padding-bottom: 170px;
+}
+
+p.deskripsi1{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 560px;
+    text-align: justify;
+    line-height: 25px;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+p.deskripsi2{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 560px;
+    text-align: justify;
+    line-height: 25px;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+img.peta{
+    height: 260px;
+    width: 450px;
+    float: right;
+    margin-top: -283px;
+    margin-right: 90px;
+    border: 5px solid #015599;
+}
+
+p.isi{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #015599;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 22px;
+}
+
+p.kasus1{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 680px;
+    background-color: white;
+    color: #015599;
+    text-align: justify;
+    padding: 10px;
+    font-size: 18px;
+}
+
+p.kasus2{
+    font-family: 'Braah One';
+    margin-left: 868px;
+    margin-right: 90px;
+    margin-top: -238px;
+    background-color: white;
+    color: #015599;
+    text-align: justify;
+    padding: 10px 10px 33px 10px;
+    font-size: 18px;
+}
+
+img.kasus{
+    float: left;
+    margin-left: 678px;
+    height: 220px;
+    width: 180px;
+    margin-top: -235px;
+}
+
+img.mekanisme{
+    height: 400px;
+}
+
+p.CTI{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #015599;
+    color: white;
+    text-align: left;
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+}
+
+p.isiCTI{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    color: black;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: -15px;
+}
+
+p.WWF{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #015599;
+    color: white;
+    text-align: left;
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+}
+
+p.isiWWF{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    color: black;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: -15px;
+}
+
+p.ASEAN{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #015599;
+    color: white;
+    text-align: left;
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+}
+
+p.isiASEAN{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    color: black;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: -15px;
+}
+
+ul.ASEAN{
+    font-family: 'Braah One';
+    margin-left: 60px;
+    margin-right: 90px;
+    color: black;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: -15px;
+    background-color: #6bbcff;
+    list-style-type: square;
+}
+
+p.sumber{
+    font-family: 'Braah One';
+    font-size: 18px;
+    text-align: left;
+    margin-left: 90px;
+    color: white;
+    font-weight: lighter;
+}
+
+p.sumber1{
+    font-family: 'Braah One';
+    font-size: 15px;
+    text-align: left;
+    margin-left: 90px;
+    margin-right: 600px;
+    color: white;
+    margin-top: -15px;
+    font-weight: lighter;
+}
+
+p.sumber2{
+    font-family: 'Braah One';
+    font-size: 15px;
+    text-align: left;
+    margin-left: 90px;
+    margin-right: 600px;
+    color: white;
+    margin-top: -15px;
+    font-weight: lighter;
+}
+
+p.sumber3{
+    font-family: 'Braah One';
+    font-size: 15px;
+    text-align: left;
+    margin-left: 90px;
+    margin-right: 600px;
+    color: white;
+    margin-top: -15px;
+    font-weight: lighter;
+}
+
+p.sumber4{
+    font-family: 'Braah One';
+    font-size: 15px;
+    text-align: left;
+    margin-left: 90px;
+    margin-right: 600px;
+    color: white;
+    margin-top: -15px;
+    font-weight: lighter;
+}
+
+p.sumber5{
+    font-family: 'Braah One';
+    font-size: 15px;
+    text-align: left;
+    margin-left: 90px;
+    margin-right: 600px;
+    color: white;
+    margin-top: -15px;
+    font-weight: lighter;
+}
+
+p.sumber6{
+    font-family: 'Braah One';
+    font-size: 15px;
+    text-align: left;
+    margin-left: 90px;
+    margin-right: 600px;
+    color: white;
+    margin-top: -15px;
+    font-weight: lighter;
+}

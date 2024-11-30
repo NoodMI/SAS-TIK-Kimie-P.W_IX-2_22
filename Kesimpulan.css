@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #6bbcff;
+}
+
+img{
+    width: 1366px;;
+    height: 160px;
+    background-size: cover;
+    padding: 0;
+}
+
+div.img{
+    position: sticky;
+    top: 0px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    background-color: #1395ff;
+    overflow: hidden;
+    margin: auto;
+    font-family: 'Braah One';
+    font-size: 20px;
+    position: sticky;
+    top: 160px;
+    margin-top: -5px;
+}
+
+ul :hover{
+    color: #015599;
+    background-color: white;
+    transform: scale(1.1); 
+}
+
+li{
+    float: left;
+    text-align: center;
+    margin: 0 90px;
+}
+
+li a{
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 20px;
+}
+
+h1{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+    border-style: dashed;
+    border-radius: 5%;
+}
+
+h2.deskirpsi1{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 350px;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: lighter;
+    background-color: #015599;
+    border-radius: 12px;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    line-height: 30px;
+}
+
+h2.deskirpsi2{
+    font-family: 'Braah One';
+    margin-left: 90px;
+    margin-right: 350px;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: lighter;
+    background-color: #015599;
+    border-radius: 12px;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    line-height: 30px;
+}
+
+h2.deskirpsi3{
+    font-family: 'Braah One';
+    margin-left: 262px;
+    margin-right: 90px;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: lighter;
+    background-color: #015599;
+    border-radius: 12px;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    line-height: 30px;
+}
+
+img.water{
+    width: 230px;
+    height: 350px;
+    float: right;
+    margin-top: -530px;
+    margin-right: 90px;
+    border-radius: 12px;
+}
+
+img.water2{
+    width: 142px;
+    height: 142px;
+    float: left;
+    margin-top: -160px;
+    margin-left: 90px;
+    border-radius: 12px;
+}
+
+img.quotes{
+    height: 140px;
+}

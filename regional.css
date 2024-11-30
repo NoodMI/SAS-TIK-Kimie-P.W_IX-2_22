@@ -1,0 +1,208 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #6bbcff;
+}
+
+img{
+    width: 1350px;
+    height: 160px;
+    background-size: cover;
+    padding: 0;
+}
+
+div.img{
+    position: sticky;
+    top: 0;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    background-color: #1395ff;
+    overflow: hidden;
+    margin: auto;
+    font-family: 'Braah One';
+    font-size: 20px;
+    position: sticky;
+    top: 160px;
+    margin-top: -5px;
+}
+
+ul :hover{
+    color: #015599;
+    background-color: white;
+    transform: scale(1.1); 
+}
+
+li{
+    float: left;
+    text-align: center;
+    margin: 0 90px;
+}
+
+li a{
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 20px;
+}
+
+h1{
+    font-family: 'Braah One';
+    text-align: center;
+}
+
+p.deskripsi{
+    font-family: 'Braah One';
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 35px;
+    color: white;
+    background-color: #015599;
+    font-weight: lighter;
+}
+
+p.judul1{
+    background-color: #015599;
+    color: white;
+    font-family: 'Braah One';
+    font-size: 22px;
+    font-weight: lighter;
+    margin-left: 30px;
+    margin-right: 900px;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+}
+
+p.judul2{
+    background-color: #015599;
+    color: white;
+    font-family: 'Braah One';
+    font-size: 22px;
+    font-weight: lighter;
+    margin-left: 455px;
+    margin-right: 480px;
+    margin-top: -92px;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+}
+
+p.judul3{
+    background-color: #015599;
+    color: white;
+    font-family: 'Braah One';
+    font-size: 22px;
+    font-weight: lighter;
+    margin-left: 875px;
+    margin-right: 30px;
+    margin-top: -92px;
+    padding: 5px 80px 5px 80px;
+    text-align: center;
+}
+
+img.ASEAN{
+    width: 180px;
+    height: 180px;
+    margin-left: 150px;
+    margin-top: -20px;
+}
+
+img.APEC{
+    width: 370px;
+    height: 180px;
+    margin-left: 140px;
+    margin-top: -20px;
+}
+
+img.EU{
+    width: 200px;
+    height: 200px;
+    margin-left: 150px;
+    margin-top: -20px;
+}
+
+p.isi1{
+    font-family: 'Braah One';
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 50px;
+    margin-right: 920px;
+    text-align: justify;
+}
+
+p.isi2{
+    font-family: 'Braah One';
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 475px;
+    margin-right: 500px;
+    margin-top: -190px;
+    text-align: justify;
+}
+
+p.isi3{
+    font-family: 'Braah One';
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: 895px;
+    margin-right: 50px;
+    margin-top: -120px;
+    text-align: justify;
+}
+
+p.bilateral{
+    font-family: 'Braah One';
+    font-size: 80%;
+    font-weight: lighter;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 85px;
+    margin-right: 950px;
+    text-align: center;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 12px;
+    margin-top: 50px;
+}
+
+p.regional{
+    font-family: 'Braah One';
+    font-size: 80%;
+    font-weight: lighter;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 500px;
+    margin-right: 510px;
+    margin-top: -74px;
+    text-align: center;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 12px;
+}
+
+p.multilateral{
+    font-family: 'Braah One';
+    font-size: 80%;
+    font-weight: lighter;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 945px;
+    margin-right: 80px;
+    margin-top: -75px;
+    text-align: center;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 12px;
+}

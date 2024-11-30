@@ -1,0 +1,189 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #6bbcff;
+    font-family: 'Braah One';
+}
+
+img{
+    width: 1350px;
+    height: 160px;
+    background-size: cover;
+    padding: 0;
+}
+
+div.img{
+    position: sticky;
+    top: 0px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    background-color: #1395ff;
+    overflow: hidden;
+    margin: auto;
+    font-family: 'Braah One';
+    font-size: 20px;
+    position: sticky;
+    top: 160px;
+    margin-top: -5px;
+}
+
+ul :hover{
+    color: #015599;
+    background-color: white;
+    transform: scale(1.1); 
+}
+
+li{
+    float: left;
+    text-align: center;
+    margin: 0 90px;
+}
+
+li a{
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 20px;
+}
+
+img.a{
+    width: 980px;
+    height: 450px;
+}
+
+div.scroll-container {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    width: 1350px;
+    height: 500px;
+}
+  
+  div.scroll-container img {
+    padding: 10px;
+}
+
+p.slide1{
+    font-family: 'Braah One';
+    margin-left: 50px;
+    margin-right: 700px;
+    font-size: 20px;
+    text-align: justify;
+    border: white;
+    border-style: solid;
+    border-radius: 15%;
+    border-width: 5px;
+    padding: 20px;
+}
+
+p.slide2{
+    font-family: 'Braah One';
+    margin-left: 670px;
+    margin-right: 60px;
+    margin-top: -265px;
+    font-size: 20px;
+    text-align: justify;
+    border: white;
+    border-style: solid;
+    border-radius: 15%;
+    border-width: 5px;
+    padding: 20px;
+}
+
+img.Slide3{
+    width: 600px;
+    height: 350px;
+    margin-left: 40px;
+}
+
+p.judul3a{
+    margin-left: 650px;
+    margin-right: 40px;
+    margin-top: -355px;
+    background-color: #015599;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+p.silde3a{
+    margin-left: 660px;
+    margin-right: 50px;
+    margin-top: -10px;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
+
+p.judul3b{
+    margin-left: 650px;
+    margin-right: 40px;
+    margin-top: -5px;
+    background-color: #015599;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+p.slide3b{
+    margin-left: 660px;
+    margin-right: 50px;
+    margin-top: -15px;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
+
+img.Slide4{
+    width: 600px;
+    height: 330px;
+    margin-left: 705px;
+}
+
+p.judul4a{
+    margin-right: 650px;
+    margin-left: 40px;
+    margin-top: -320px;
+    background-color: #015599;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+p.silde4a{
+    margin-right: 660px;
+    margin-left: 50px;
+    margin-top: -10px;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
+
+p.judul4b{
+    margin-right: 650px;
+    margin-left: 40px;
+    background-color: #015599;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+p.slide4b{
+    margin-right: 660px;
+    margin-left: 50px;
+    margin-top: -10px;
+    color: black;
+    font-size: 16px;
+    text-align: justify;
+}
